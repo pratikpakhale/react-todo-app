@@ -1,6 +1,6 @@
 ## Overview
 
-A simple Todo app build with React!
+A simple Todo app built with React!
 
 ## Live At
 
